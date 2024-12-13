@@ -16,4 +16,17 @@
 
 /************************* YOUR SETTINGS *************************/
 
-/* add your css here, feel free to use comments and order them logically for better readability *
+/* add your css here, feel free to use comments and order them logically for better readability */
+* {
+   margin: 0;
+} 
+
+h1 {font-style: Besley;
+   background: #034C8C;
+   color: white;
+}
+h2{
+   font-style: besley;
+   background-color:#BF6341;
+   color: white;
+}
