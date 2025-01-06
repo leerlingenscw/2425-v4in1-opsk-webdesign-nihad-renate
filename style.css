@@ -19,27 +19,47 @@
 /* add your css here, feel free to use comments and order them logically for better readability */
 * {
    margin: 0;
-} 
-
-h1 {font-style: Besley;
-   font-size: 50pt;
-   background: #034C8C;
-   color: white;
-   padding: 3%;
-   padding-bottom: 0%;
-}
-p {font-style: Besley;
-   font-size: 20pt;
-   background: #034C8C;
-   color: white;
-   padding: 0%;
-   padding-left:3%;
-}
-h2 {
-   font-style: besley;
-   background-color:#BF6341;
-   font: white;
-   padding: 1%;
-   padding-left: 3%;
-}
-
+ }
+  
+ body {
+   background-color: #ffeae3;
+ }
+  
+ #wrapper {
+   background-color: #fcfdff;
+   padding: 10px;
+   margin: auto;
+ }
+  
+ header {
+   background-color: #9fa2b2;
+   width: 510px;
+   height: 40px;
+   margin-bottom: 10px;
+ }
+  
+ article {
+   background-color: #c0ccb5;
+   width: 120px;
+   height: 120px;
+   margin: 0 10px 10px 0;
+   cursor: pointer;
+ }
+  
+ article:hover {
+   background-color: #ffeae3;
+ }
+  
+ #sidebar {
+   background-color: #a9b2a1;
+   width: 120px;
+   height: 380px;
+   margin-bottom: 10px;
+ }
+  
+ footer {
+   clear: both;
+   background-color: #505810;
+   width: 510px;
+   height: 40px;
+ }
