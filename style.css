@@ -29,16 +29,21 @@
    background-color: #fcfdff;
    padding: 10px;
    margin: auto;
-   width: 70%;
+   width: 90%;
  }
   
- header {
+ .header {
+  text-align: center;
    background-color: #9fa2b2;
-   height: 40px;
+   height: 60px;
    margin-bottom: 10px;
  }
+ .navigatie ul {
+  display: flex;
+  gap: 20px;
+ }
   
- article {
+ .main {
    background-color: #c0ccb5;
    height: 120px;
    margin: 0 10px 10px 0;
