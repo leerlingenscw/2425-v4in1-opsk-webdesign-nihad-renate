@@ -55,6 +55,7 @@
   list-style: none; 
   padding: 10px;
   margin: 10px;
+  background-color: #bf6431;
 }
 a {
   color: white;
@@ -81,15 +82,16 @@ a {
   
 .sidebar {
   grid-area: sidebar;
-  background-color: #E7A9B1;
+  background-color: #bf6431;
   padding: 20px;
 }
   
  footer {
+  grid-area: footer;
    clear: both;
    text-align: center;
    background-color: #23395d;
    color: #ffffff;
-   height: 40px;
-   padding-top: 20px;
+   height: 100px;
+   padding-top: 40px;
  }
