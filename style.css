@@ -85,6 +85,9 @@ a {
   background-color: #bf6431;
   padding: 20px;
 }
+h3 {
+  margin-bottom: 20px;
+}
   
  footer {
   grid-area: footer;
