@@ -39,6 +39,7 @@
    'main sidebar'
    'footer footer';
    grid-template-rows: 1fr 5fr 1fr;
+   grid-template-colums: 3fr 1fr;
  }
   
  .header {
