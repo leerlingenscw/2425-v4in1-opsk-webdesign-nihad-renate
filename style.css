@@ -107,7 +107,11 @@ a {
 .sidebar {
   grid-area: sidebar;
   background-color: #bf6431;
-  padding: 10%;
+  padding: 10px;
+  width: 300px;
+  max-width: 300px;
+  overflow: auto; 
+  box-sizing: border-box; 
 }
 h3 {
   margin-bottom: 20px;
