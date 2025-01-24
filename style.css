@@ -26,6 +26,21 @@
    padding-left: 10%;
    padding-right: 10%;
  }
+
+.content {
+   text-align: center; 
+   margin: 20 px auto; 
+   max-width: 600px; 
+}
+
+.bedreiging-image {
+   display: block; 
+   max-width: 100%; 
+   height: auto; 
+   margin: 10px auto; 
+}
+
+   
   
  #wrapper {
    background-color: #fcfdff;
