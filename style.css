@@ -39,7 +39,12 @@
    height: auto; 
    margin: 10px auto; 
 }
-
+.digitale-veiligheid-image {
+   display: block; 
+   max-width: 100%; 
+   height: auto; 
+   margin: 10px auto; 
+}
    
   
  #wrapper {
